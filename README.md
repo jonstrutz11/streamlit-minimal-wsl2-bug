@@ -11,4 +11,4 @@ Steps to reproduce:
 7. See if changes are detected in app on Page 1 (they weren't for me)
 8. Press button on page 1
 9. Make a change to the message in the function in utils_module/utils.py
-10. Press the button again, see if message is different
+10. Press the button again, see if message is different (it wasn't for me)
