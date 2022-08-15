@@ -6,7 +6,7 @@ Steps to reproduce:
 2. Make sure your PYTHONPATH includes this repo such that utils_module is recognized by python
 3. `streamlit run Home.py`
 4. Make a change to Home.py
-5. See if changes are detected in app on Page 1 (they were for me)
+5. See if changes are detected in app on Home page (they were for me)
 6. Make a change to 1_Page_1.py
 7. See if changes are detected in app on Page 1 (they weren't for me)
 8. Press button on page 1
