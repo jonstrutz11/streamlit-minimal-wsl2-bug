@@ -8,7 +8,7 @@ Steps to reproduce:
 4. Make a change to Home.py
 5. See if changes are detected in app on Home page (they were for me)
 6. Make a change to 1_Page_1.py
-7. See if changes are detected in app on Page 1 (they weren't for me)
+7. See if changes are detected in app on Page 1 (they weren't for me but should be)
 8. Press button on page 1
 9. Make a change to the message in the function in utils_module/utils.py
-10. Press the button again, see if message is different (it wasn't for me)
+10. Press the button again, see if message is different (it wasn't for me but should be)
