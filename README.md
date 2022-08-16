@@ -12,3 +12,5 @@ Steps to reproduce:
 8. Press button on page 1
 9. Make a change to the message in the function in utils_module/utils.py
 10. Press the button again, see if message is different (it wasn't for me but should be)
+
+I also did the above on Windows 10 (i.e. not in WSL2) - worked as expected (all changes were detected).
