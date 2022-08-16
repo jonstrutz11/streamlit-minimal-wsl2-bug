@@ -1,5 +1,5 @@
 # streamlit-minimal-wsl2-bug
-Minimal example for issue where streamlit does not detect file changes in WSL2
+Minimal example for issue where streamlit does not detect file changes in WSL2 for multipage apps.
 
 Steps to reproduce:
 1. Clone this repo into a WSL2 environment running Ubuntu 20.04 and with Streamlit 1.11.0 installed
